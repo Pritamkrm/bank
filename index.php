@@ -194,7 +194,7 @@
 	<header class="Header">
 		<div class="mainHeader">
 
-			<img src="SPARK_LOGO.png" alt="logo">
+			<img src="bank.jpg" alt="logo">
 			<br>
 			<h1 style="color: rgb(94, 4, 27);">Basic Banking System</h1>
 			<nav>
