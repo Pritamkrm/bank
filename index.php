@@ -232,7 +232,7 @@
 
 	</header>
 	<footer class="foo">
-		<p style="text-align:center;">&copy 2022. Made by <b>Kajal Kumari</b> <br> The Sparks Foundation</p>
+		<p style="text-align:center;">&copy 2022. Made by <b>Kajal Kumari</b> <br>Basic Banking System</p>
 	</footer>
 </body>
 
