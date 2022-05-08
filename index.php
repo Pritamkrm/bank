@@ -200,7 +200,7 @@
 			<nav>
 				<a href="index.php" class="active"></a>
 				<div class="menubtn">
-					<button><a href="bank1.php">View CustomersList</a></button>
+					<button><a href="bank1.php">View Customers List</a></button>
 				</div>
 				<div class="menubtn">
 					<button><a href="moneytranc1.php">View Transaction</a></button>
@@ -213,7 +213,7 @@
 			<br>
 			<br>
 			<marquee class="mar" behavior="" direction="rihgt">
-				<h3 style="font-size: 40px; font-weight: bold;">Welcome to The Sparks Foundation Bank</h3>
+				<h3 style="font-size: 40px; font-weight: bold;">Welcome to The Basic Banking System</h3>
 			</marquee>
 			<br>
 			<br>
@@ -222,7 +222,7 @@
 			<br>
 			<br><br>
 			<section class="left-sec">
-				<h1 style="text-align:left;" style="color: rgb(94, 4, 27);">Sparks Banking System </h1>
+				<h1 style="text-align:left;" style="color: rgb(94, 4, 27);">Basic Banking System </h1>
 
 			</section>
 
