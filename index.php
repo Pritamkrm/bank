@@ -196,7 +196,7 @@
 
 			<img src="SPARK_LOGO.png" alt="logo">
 			<br>
-			<h1 style="color: rgb(94, 4, 27);">THE SPARK FOUNDATION</h1>
+			<h1 style="color: rgb(94, 4, 27);">Basic Banking System</h1>
 			<nav>
 				<a href="index.php" class="active"></a>
 				<div class="menubtn">
